@@ -349,10 +349,12 @@
 "Assets/scripts/followplayer.cs"
 "Assets/scripts/hover.cs"
 "Assets/scripts/movement.cs"
+"Assets/scripts/objectdestroy.cs"
 "Assets/scripts/playercollision.cs"
 "Assets/scripts/randomspawn.cs"
 "Assets/scripts/rotate.cs"
 "Assets/scripts/spacemotion.cs"
+"Assets/scripts/timer.cs"
 -langversion:9.0
 
 /deterministic
