@@ -11,7 +11,7 @@ public class destroy : MonoBehaviour
     {
     
 
-        if (player.transform.position.x<-51f || player.transform.position.x>51f)
+        if (player.transform.position.x<-100f || player.transform.position.x>100f)
         {
             rb.useGravity = true;
             sp.enabled=false;
